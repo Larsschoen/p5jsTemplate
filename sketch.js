@@ -1,8 +1,9 @@
 function setup() {
-  createCanvas(200,200)
-  background(200)
+  createCanvas(500, 500)
 }
 
 function draw() {
-  
+  background(125)
+  textSize(50)
+  text("Welcome to the show!", 5, 250)
 }
